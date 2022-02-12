@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://root_user123:root_user123@ireview.rbze2.mongodb.net/movieList?retryWrites=true&w=majority",
+    "jwtSecret": "ml_myJwtSecret"
+}
